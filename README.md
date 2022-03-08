@@ -1,7 +1,7 @@
 ### Hi there I'm Victor Kulankash 👋
 
 
-A Software Engineering enthusiast from Kenya
+A Software Engineering Enthusiast from Kenya
 
 
 🌱 I’m currently learning R, C++, Java, Oracle Cloud, A.I and Machine Learning
