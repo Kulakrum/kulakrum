@@ -16,4 +16,4 @@ A Software Engineering Enthusiast from Kenya
 
 ⚡ Fun fact: I like rockets and space exploration. 🚀
 
-Languages and Tools: Arduino R C C++ CSS3 Git HTML5 Java JavaScript Linux Photoshop Python3 Markdown Atom VS-Code Kali-Linux
+Languages and Tools: Python, Arduino, R, C++, CSS3, HTML5, Java, JavaScript, Linux, Photoshop, Git, Linux
